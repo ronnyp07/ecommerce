@@ -1,6 +1,6 @@
 
 Modern Full Stack ECommerce Application with Stripe & Sanity
-![](https://drive.google.com/file/d/12oGvjyi6zS3n4zbSgZNt_aRQV_6Ui7Cq/view?usp=sharing)
+![](public/header.png)
 
 ## Getting Started
 
