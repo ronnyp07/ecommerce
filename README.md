@@ -1,6 +1,6 @@
 
 Modern Full Stack ECommerce Application with Stripe & Sanity
-[Demo](https://rpmm-ecommerce-4um2eiz9e-ronnyp07.vercel.app/)
+[Demo](https://rpmm-ecommerce.vercel.app/)
 ![](public/header.png)
 
 **Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and the complete integration with Stripe so that you can cover REAL payments.
